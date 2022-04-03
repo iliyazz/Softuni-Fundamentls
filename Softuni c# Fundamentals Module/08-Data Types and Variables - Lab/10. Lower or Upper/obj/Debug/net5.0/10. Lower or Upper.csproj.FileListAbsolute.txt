@@ -1,0 +1,15 @@
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.exe
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.deps.json
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.json
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.runtimeconfig.dev.json
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.dll
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\ref\10. Lower or Upper.dll
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net5.0\10. Lower or Upper.pdb
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfoInputs.cache
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.AssemblyInfo.cs
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.csproj.CoreCompileInputs.cache
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.dll
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\ref\10. Lower or Upper.dll
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.pdb
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net5.0\10. Lower or Upper.genruntimeconfig.cache

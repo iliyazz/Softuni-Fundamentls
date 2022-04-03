@@ -1,0 +1,16 @@
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.exe
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.deps.json
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.runtimeconfig.json
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.runtimeconfig.dev.json
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.dll
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net5.0\ref\06. Reversed Chars.dll
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.pdb
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.csproj.AssemblyReference.cache
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.AssemblyInfoInputs.cache
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.AssemblyInfo.cs
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.csproj.CoreCompileInputs.cache
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.dll
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\ref\06. Reversed Chars.dll
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.pdb
+D:\c# fundamentals\8 Data Types and Variables\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.genruntimeconfig.cache
